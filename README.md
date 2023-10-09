@@ -37,15 +37,16 @@ ratings_small.csv
 Dependencies
 
 *Python >=3.5
-pandas
-numpy
-scipy
-scikit-learn
-scikit-surprise
-lightfm
-matplotlib
-seaborn
-jupyter notebook
-jupyter lab
-textblob
+*pandas
+*numpy
+*scipy
+*scikit-learn
+*scikit-surprise
+*lightfm
+*matplotlib
+*seaborn
+*jupyter notebook
+*jupyter lab
+*textblob
 
+Install dependencies
